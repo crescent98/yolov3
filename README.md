@@ -1,6 +1,10 @@
-<a href="https://apps.apple.com/app/id1452689527" target="_blank">
-<img src="https://user-images.githubusercontent.com/26833433/99805965-8f2ca800-2b3d-11eb-8fad-13a96b222a23.jpg" width="1000"></a>
-&nbsp
+### YOLOV3!!!!!!!!!!!!!
+This Repo is forked from ultralytics' yolov3  
+Hollywood Head Detection 을 위한 Repository  
+[자세히](https://www.notion.so/PyTorch-YOLOv3-efbe3229f50f471aa3e907f158ca798a)  
+
+
+
 
 ![CI CPU testing](https://github.com/ultralytics/yolov3/workflows/CI%20CPU%20testing/badge.svg)
 
